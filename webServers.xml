@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="42fe2f3c-b4ea-4718-9bbb-2685c6c82e8f" name="jq_Timing_Methods" url="http://localhost:8888/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="e4d6c592-847e-4a86-89a0-69f0a5b22937" name="local-88-straight" url="http://localhost:8888">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

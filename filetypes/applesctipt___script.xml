@@ -1,0 +1,16 @@
+<filetype binary="false" description="applescript " name="applesctipt/*.script">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+    </options>
+    <keywords keywords="applescript" ignore_case="false" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="script" />
+    <mapping ext="scpt" />
+  </extensionMap>
+</filetype>

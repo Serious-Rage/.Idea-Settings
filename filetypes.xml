@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="scpt" type="AppleScript file" />
+      <mapping pattern="applescript/*.script " type="PLAIN_TEXT" />
+      <mapping ext="sdef" type="XML" />
+    </extensionMap>
+  </component>
+</application>
