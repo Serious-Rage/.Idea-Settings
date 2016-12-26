@@ -10,6 +10,10 @@
           <option name="url" value="git@github.com:Serious-Rage/html5-boilerplate.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Serious-Rage/Widgits-for-Idgits.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Applications/MAMP/htdocs" />
