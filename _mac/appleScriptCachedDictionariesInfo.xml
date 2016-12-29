@@ -1,0 +1,22 @@
+<application>
+  <component name="AppleScriptSystemDictionaryRegistryComponent">
+    <applicationsInfo>
+      <dictionary-info applicationName="System Events">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/PhpStorm2016.3/sdef/System_Events_generated.sdef" />
+        <option name="applicationUrl" value="/System/Library/CoreServices/System Events.app" />
+      </dictionary-info>
+      <dictionary-info applicationName="Standard Terminology">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/PhpStorm2016.3/sdef/Standard_Terminology_generated.sdef" />
+      </dictionary-info>
+      <dictionary-info applicationName="Scripting Additions">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/PhpStorm2016.3/sdef/Scripting_Additions_generated.sdef" />
+      </dictionary-info>
+    </applicationsInfo>
+    <notScriptableApplications>
+      <item value="Adobe Unit Types" />
+      <item value="SASyphonInjector" />
+      <item value="StandardAdditions" />
+      <item value="Digital Hub Scripting" />
+    </notScriptableApplications>
+  </component>
+</application>
