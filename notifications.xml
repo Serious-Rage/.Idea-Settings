@@ -1,18 +1,25 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Browser Connection" displayType="STICKY_BALLOON" shouldReadAloud="true" />
+    <notification groupId="Browser Connection" shouldReadAloud="true" />
+    <notification groupId="Built-in Server" shouldReadAloud="true" />
     <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" shouldReadAloud="true" />
+    <notification groupId="Database detector" shouldReadAloud="true" />
+    <notification groupId="Database execution log" shouldReadAloud="true" />
+    <notification groupId="Database refactoring log" shouldReadAloud="true" />
+    <notification groupId="Database view" shouldReadAloud="true" />
+    <notification groupId="Database view log" shouldReadAloud="true" />
     <notification groupId="File Watchers" shouldReadAloud="true" />
-    <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
-    <notification groupId="Indexing" displayType="NONE" shouldReadAloud="true" />
-    <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" shouldReadAloud="true" />
+    <notification groupId="Find in Path" displayType="TOOL_WINDOW" shouldReadAloud="true" />
+    <notification groupId="Indexing" shouldReadAloud="true" />
+    <notification groupId="PHP Debugger" displayType="NONE" shouldReadAloud="true" />
     <notification groupId="PHP Interpreters" shouldLog="false" />
     <notification groupId="PHP-CGI Server" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" shouldReadAloud="true" />
     <notification groupId="System Health" shouldReadAloud="true" />
     <notification groupId="System Health (minor)" displayType="NONE" shouldReadAloud="true" />
     <notification groupId="V8 CPU Profiling Messages" shouldReadAloud="true" />
     <notification groupId="V8 Heap Snapshot Analysis Messages" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Web Deployment" shouldReadAloud="true" />
-    <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" />
+    <notification groupId="Web Deployment: Remote Host" shouldReadAloud="true" />
   </component>
 </application>
