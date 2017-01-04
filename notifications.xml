@@ -9,12 +9,11 @@
     <notification groupId="Database view" shouldReadAloud="true" />
     <notification groupId="Database view log" shouldReadAloud="true" />
     <notification groupId="File Watchers" shouldReadAloud="true" />
-    <notification groupId="Find in Path" displayType="TOOL_WINDOW" shouldReadAloud="true" />
-    <notification groupId="Indexing" shouldReadAloud="true" />
-    <notification groupId="PHP Debugger" displayType="NONE" shouldReadAloud="true" />
+    <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
+    <notification groupId="Indexing" />
+    <notification groupId="PHP Debugger" displayType="NONE" />
     <notification groupId="PHP Interpreters" shouldLog="false" />
     <notification groupId="PHP-CGI Server" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" shouldReadAloud="true" />
     <notification groupId="System Health" shouldReadAloud="true" />
     <notification groupId="System Health (minor)" displayType="NONE" shouldReadAloud="true" />
     <notification groupId="V8 CPU Profiling Messages" shouldReadAloud="true" />
